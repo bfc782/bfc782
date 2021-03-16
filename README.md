@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Ben. I'm a data scientist based in Berlin.
+### I'm a data scientist based in Berlin.
 
 <!--
 **bfc782/bfc782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
