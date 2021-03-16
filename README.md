@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently working on a lo-tech (user-side), non-profit startup concept that combines datascience and running (sort of)
+🔭 I’m currently starting up a lo-tech (user-side), non-profit concept, combining data science & movement
 
 🌱 I’m currently learning Dash, Django and Deutsch (3Ds!)
 
