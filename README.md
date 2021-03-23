@@ -11,7 +11,4 @@ Here are some ideas to get you started:-->
 
 🤔 I’m looking for help to keep design ideas clear and simple
 
-
-💬 Ask me about my Wittgenstein theories
-
 📫 How to reach me: https://www.linkedin.com/in/benfcook/
