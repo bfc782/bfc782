@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:-->
 
-🔭 I’m currently starting up a lo-tech (user-side), non-profit concept, combining data science & movement
+🔭 I’m currently starting up a lo-tech but ML-inspired, non-profit concept: AI^movement
 
 🌱 I’m currently learning Dash, Django and Deutsch (3Ds!)
 
