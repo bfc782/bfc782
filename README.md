@@ -1,4 +1,4 @@
-### I'm into data, and I'm based in Berlin.
+### I'm into data, and I'm found in Berlin & Poznań.
 
 <!--
 **bfc782/bfc782** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
