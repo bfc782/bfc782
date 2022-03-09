@@ -7,7 +7,7 @@ Here are some ideas to get you started:-->
 
 🔭 I’m currently building a lo-tech but ML-inspired, non-profit concept.
 
-🌱 I’m still learning lots about python: numpy, pandas & flask.
+🌱 I’m still learning lots about python: numpy, pandas & flask... and taking another look at Javascript.
 
 🤔 I’m looking for help to keep my ideas clear and simple.
 
